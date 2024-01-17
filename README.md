@@ -1,1 +1,1 @@
-A very basic C++ program that calculates the volume of different shapes.
+A simple C++ program that utilizes functions to calculate the volume of various 3D shapes.
